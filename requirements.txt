@@ -3,5 +3,5 @@ openai
 pandas
 seaborn
 streamlit
-tabula
+tabula-py
 
