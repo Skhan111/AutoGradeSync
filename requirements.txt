@@ -1,6 +1,7 @@
-matplotlib==3.9.2
-openai==1.47.0
-pandas==2.2.3
-seaborn==0.13.2
-streamlit==1.38.0
-tabula==1.0.5
+matplotlib
+openai
+pandas
+seaborn
+streamlit
+tabula
+
